@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-<p>I'm Kyle, Student developer from Australia 🇦🇺. 
-<br/>I moved to the US at 16 in order to pursue a higher caliber of computer science education, I love learning and am willing to take any opportunites thrown my way.</p>
+I'm Kyle, Student developer from Australia 🇦🇺. <br/>
+I moved to the US at 16 in order to pursue a higher caliber of computer science education, I love learning and am willing to take any opportunites thrown my way. take a look at my [resume](https://github.com/kylewandishin/kylewandishin/blob/main/resume.pdf)
 
 ```javascript
 const Kyle = {
@@ -49,7 +49,3 @@ const Kyle = {
   - create a OCR bot to scrape textbook pdf files to find certain chapters and summerise them for me using tools such as <a href="https://quillbot.com/summarize?utm_medium=paid_search&utm_source=google&utm_campaign=paraphrase_premium_brand&campaign_type=search" target="_blank" >quillbot</a>.
   - create an Computer vision AI to play the <a target="_blank" href="https://chrome.google.com/webstore/detail/tetrys/bnchicpgbdgahiecgofdabidjihblaff">tetris web extension</a> using repeating screenshots from something like <a href="https://pypi.org/project/pytesseract/" target="_blank">PyTesseract</a>
   - design a basic replica of "recaptcha" in order to better understand how it is used to further computer vision technology.
-
-
-## Resume
-<embed src="resume.pdf" type="application/pdf">
