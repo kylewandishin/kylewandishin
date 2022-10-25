@@ -49,3 +49,7 @@ const Kyle = {
   - create a OCR bot to scrape textbook pdf files to find certain chapters and summerise them for me using tools such as <a href="https://quillbot.com/summarize?utm_medium=paid_search&utm_source=google&utm_campaign=paraphrase_premium_brand&campaign_type=search" target="_blank" >quillbot</a>.
   - create an Computer vision AI to play the <a target="_blank" href="https://chrome.google.com/webstore/detail/tetrys/bnchicpgbdgahiecgofdabidjihblaff">tetris web extension</a> using repeating screenshots from something like <a href="https://pypi.org/project/pytesseract/" target="_blank">PyTesseract</a>
   - design a basic replica of "recaptcha" in order to better understand how it is used to further computer vision technology.
+
+
+## Resume
+<embed src="resume.pdf" type="application/pdf">
