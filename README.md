@@ -1,7 +1,8 @@
 <img src="https://messageproject43844.000webhostapp.com/images/top.svg" width="100%"/>
 <img src="https://messageproject43844.000webhostapp.com/images/text.svg" />
-
-## Skills
+<img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
+     
+ ## Skills
 <p align="center">
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
@@ -29,7 +30,7 @@
   <img alt="CoffeeScript" src="https://img.shields.io/badge/-CoffeeScript-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white" />
   <img alt="Hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=Hyper&logoColor=white" />
 </p>
-
+     
 ## About
 <p  align="center">
   
@@ -62,15 +63,17 @@ you should take a look at my <a href="https://github.com/kylewandishin/kylewandi
   - create an Computer vision AI to play the <a target="_blank" href="https://chrome.google.com/webstore/detail/tetrys/bnchicpgbdgahiecgofdabidjihblaff">tetris web extension</a> using repeating screenshots from something like <a href="https://pypi.org/project/pytesseract/" target="_blank">PyTesseract</a>
   - design a basic replica of "recaptcha" in order to better understand how it is used to further computer vision technology.
 
-
+<img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
+     
+     
 <table border="0">
 <tr border="0">
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kylewandishin&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&no-bg=true&no-frame=true" />
+<td width="50%" align="center" border="0">
+<img width="100%" align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kylewandishin&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 
 <td width="50%" align="center">
-<img  title="github stats" alt="Kyle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kylewandishin&theme=midnight-purple&hide_border=true" />
+<img width="100%" title="github stats" alt="Kyle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kylewandishin&theme=midnight-purple&hide_border=true" />
 
 </td>
 </tr>
