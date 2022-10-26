@@ -1,19 +1,8 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-I'm Kyle, Student developer from Australia 🇦🇺. <br/>
-I moved to the US at 16 in order to pursue a higher caliber of computer science education, I love learning and am willing to take any opportunites thrown my way. take a look at my [resume](https://github.com/kylewandishin/kylewandishin/blob/main/resume.pdf)
+<img src="https://messageproject43844.000webhostapp.com/images/top.svg" width="100%"/>
+<img src="https://messageproject43844.000webhostapp.com/images/text.svg" />
 
-```javascript
-const Kyle = {
-  pronouns: "he" | "him",
-  code: [Javascript, Python, HTML5, CSS3, Java, C++],
-  age: "17",
-  openTo: "any opportunities :)",
-  tools: [React, Pytorch, Node, Sass, Jupyter],
-  challenge: "I am doing the #100DaysOfCode challenge focusing on python and react"
-}
-```
 ## Skills
-<p>
+<p align="center">
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -41,6 +30,29 @@ const Kyle = {
   <img alt="Hyper" src="https://img.shields.io/badge/-Hyper-000000?style=flat-square&logo=Hyper&logoColor=white" />
 </p>
 
+## About
+<p  align="center">
+  
+```javascript
+const Kyle = {
+  pronouns: "he" | "him",
+  code: [Javascript, Python, HTML5, CSS3, Java, C++],
+  age: "17",
+  origin: "Australia",
+  openTo: "any opportunities :)",
+  tools: [React, Pytorch, Node, Sass, Jupyter],
+  challenge: "I am doing the #100DaysOfCode challenge focusing on python and react"
+}
+```
+  
+ </p>
+<br/>
+when I was 16 I moved to the US in order to pursue a higher caliber of computer science education. I love learning and would be happy to attempt any opportunities thrown my way including internships and more me.
+<br/>
+you should take a look at my <a href="https://github.com/kylewandishin/kylewandishin/blob/main/resume.pdf">resume</a>
+<br/>
+<br/>
+
 ## Contact 
   - take a look at my <a href="kyle-react-portfolio.web.app" target="_blank">portfolio</a>.<br/>
   - or visit me on <a href="https://www.linkedin.com/in/kyle-wandishin-1b45b3250/" target="_blank">linkedin</a><br/>
@@ -49,3 +61,24 @@ const Kyle = {
   - create a OCR bot to scrape textbook pdf files to find certain chapters and summerise them for me using tools such as <a href="https://quillbot.com/summarize?utm_medium=paid_search&utm_source=google&utm_campaign=paraphrase_premium_brand&campaign_type=search" target="_blank" >quillbot</a>.
   - create an Computer vision AI to play the <a target="_blank" href="https://chrome.google.com/webstore/detail/tetrys/bnchicpgbdgahiecgofdabidjihblaff">tetris web extension</a> using repeating screenshots from something like <a href="https://pypi.org/project/pytesseract/" target="_blank">PyTesseract</a>
   - design a basic replica of "recaptcha" in order to better understand how it is used to further computer vision technology.
+
+
+<table border="0">
+<tr border="0">
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kylewandishin&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true&no-bg=true&no-frame=true" />
+</td>
+
+<td width="50%" align="center">
+<img  title="github stats" alt="Kyle streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kylewandishin&theme=midnight-purple&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+<p  align="center">
+<a  href="https://github.com/kylewandishin/github-readme-activity-graph"><img  alt="Kyle's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=kylewandishin&bg_color=0D1117&color=9570e6&line=9570e6&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
+</p>
+
+
+<img src="https://messageproject43844.000webhostapp.com/images/bottom.svg" width="100%"/>
