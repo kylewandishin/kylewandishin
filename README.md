@@ -45,7 +45,7 @@ const Kyle = {
   challenge: "I am doing the #100DaysOfCode challenge focusing on python and react"
 }
 ```
-  
+
  </p>
 <br/>
 when I was 16 I moved to the US in order to pursue a higher caliber of computer science education. I love learning and would be happy to attempt any opportunities thrown my way including internships and more me.
