@@ -2,8 +2,6 @@
 <img src="https://messageproject43844.000webhostapp.com/images/text.svg" />
 <img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
   
-  #Me
-  
  ## Skills
 <p align="center">
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
