@@ -58,14 +58,35 @@ you should take a look at my <a href="https://github.com/kylewandishin/kylewandi
   - take a look at my <a href="kyle-react-portfolio.web.app" target="_blank">portfolio</a>.<br/>
   - or visit me on <a href="https://www.linkedin.com/in/kyle-wandishin-1b45b3250/" target="_blank">linkedin</a><br/>
 
+<br/>
+
 ## Idea's for the near future
   - create a OCR bot to scrape textbook pdf files to find certain chapters and summerise them for me using tools such as <a href="https://quillbot.com/summarize?utm_medium=paid_search&utm_source=google&utm_campaign=paraphrase_premium_brand&campaign_type=search" target="_blank" >quillbot</a>.
   - create an Computer vision AI to play the <a target="_blank" href="https://chrome.google.com/webstore/detail/tetrys/bnchicpgbdgahiecgofdabidjihblaff">tetris web extension</a> using repeating screenshots from something like <a href="https://pypi.org/project/pytesseract/" target="_blank">PyTesseract</a>
   - design a basic replica of "recaptcha" in order to better understand how it is used to further computer vision technology.
+<br/>
+<img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
+ 
+## Past projects
+
+<p  align="center">
+<a href="https://github.com/kylewandishin/websiteThatCodesItsSelf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kylewandishin&repo=websiteThatCodesItsSelf&theme=jolly&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+<a href="https://github.com/kylewandishin/ReactPortfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kylewandishin&repo=ReactPortfolio&theme=jolly&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+     <br/> 
+     <br/> 
+<a href="https://github.com/kylewandishin/carSegmentation/blob/main/carSegmentation.ipynb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kylewandishin&repo=carSegmentation&theme=jolly&hide_border=true&no-bg=true&no-frame=true" />
+</a>
+</p>
 
 <img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
-     
-     
+
+## Stats
+
 <table border="0">
 <tr border="0">
 <td width="50%" align="center" border="0">
@@ -82,6 +103,5 @@ you should take a look at my <a href="https://github.com/kylewandishin/kylewandi
 <p  align="center">
 <a  href="https://github.com/kylewandishin/github-readme-activity-graph"><img  alt="Kyle's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=kylewandishin&bg_color=0D1117&color=9570e6&line=9570e6&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
-
 
 <img src="https://messageproject43844.000webhostapp.com/images/bottom.svg" width="100%"/>
