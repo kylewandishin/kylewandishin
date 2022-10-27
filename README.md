@@ -60,7 +60,7 @@ you should take a look at my <a href="https://github.com/kylewandishin/kylewandi
 <p align="left">
   <a href="mailto:kywandishin@gmail.com"><img alt="Gmail"  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/kylewandishin/"><img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="kyle-react-portfolio.web.app" target="_blank"><img alt="Portfolio"  src="https://img.shields.io/badge/portfolio-899780.svg?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a>
+  <a href="https://www.kyle-react-portfolio.web.app" target="_blank"><img alt="Portfolio"  src="https://img.shields.io/badge/portfolio-899780.svg?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a>
        </p>
 <br/>
 
