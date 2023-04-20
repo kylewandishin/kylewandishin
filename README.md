@@ -50,8 +50,7 @@ const Kyle = {
 <br/>
 when I was 16 I moved to the US in order to pursue a higher caliber of computer science education. I love learning and would be happy to attempt any opportunities thrown my way including internships and more me.
 <br/>
-you should take a look at my <a href="https://github.com/kylewandishin/kylewandishin/blob/main/resume.pdf">resume</a>
-<br/>
+
 <br/>
 
 ## Contact 
