@@ -36,9 +36,10 @@
   
 ```javascript
 const Kyle = {
+  job: "founder at 14fourtech",
   pronouns: "he" | "him",
   code: [Javascript, Python, HTML5, CSS3, Java, C++],
-  age: "17",
+  age: "18",
   origin: "Australia",
   openTo: "any opportunities :)",
   tools: [React, Pytorch, Node, Sass, Jupyter],
