@@ -95,7 +95,3 @@ when I was 16 I moved to the US in order to pursue a higher caliber of computer 
 </td>
 </tr>
 </table>
-
-<p  align="center">
-<a  href="https://github.com/kylewandishin/github-readme-activity-graph"><img  alt="Kyle's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=kylewandishin&bg_color=0D1117&color=9570e6&line=9570e6&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
-</p>
