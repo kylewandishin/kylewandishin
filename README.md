@@ -1,8 +1,4 @@
-<img src="https://messageproject43844.000webhostapp.com/images/top.svg" width="100%"/>
-<img src="https://messageproject43844.000webhostapp.com/images/text.svg" />
-<img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
-  
- ## Skills
+## Skills
 <p align="center">
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
@@ -67,7 +63,7 @@ when I was 16 I moved to the US in order to pursue a higher caliber of computer 
   - create an Computer vision AI to play the <a target="_blank" href="https://chrome.google.com/webstore/detail/tetrys/bnchicpgbdgahiecgofdabidjihblaff">tetris web extension</a> using repeating screenshots from something like <a href="https://pypi.org/project/pytesseract/" target="_blank">PyTesseract</a>
   - design a basic replica of "recaptcha" in order to better understand how it is used to further computer vision technology.
 <br/>
-<img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
+#
  
 ## Past projects
 
@@ -84,8 +80,6 @@ when I was 16 I moved to the US in order to pursue a higher caliber of computer 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kylewandishin&repo=carSegmentation&theme=jolly&hide_border=true&no-bg=true&no-frame=true" />
 </a>
 </p>
-
-<img src="https://messageproject43844.000webhostapp.com/images/purpleline.png" >
 
 ## Stats
 
@@ -105,5 +99,3 @@ when I was 16 I moved to the US in order to pursue a higher caliber of computer 
 <p  align="center">
 <a  href="https://github.com/kylewandishin/github-readme-activity-graph"><img  alt="Kyle's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=kylewandishin&bg_color=0D1117&color=9570e6&line=9570e6&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
-
-<img src="https://messageproject43844.000webhostapp.com/images/bottom.svg" width="100%"/>
