@@ -94,3 +94,6 @@ Used CDC and event streams to connect dozens of fragmented systems for billion d
 
 ## Reach Out
 <p align="center"> <a href="mailto:kyle@arterial.us"> <img src="https://img.shields.io/badge/Email-CCDAF2?style=for-the-badge&logo=gmail&logoColor=111111"/> </a> <a href="https://www.linkedin.com/in/kylewandishin/"> <img src="https://img.shields.io/badge/LinkedIn-CCDAF2?style=for-the-badge&logo=linkedin&logoColor=111111"/> </a> <a href="https://kyle.wandishin.com"> <img src="https://img.shields.io/badge/Website-CCDAF2?style=for-the-badge"/> </a> </p>
+
+## Github Signals
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kylewandishin&show_icons=true&hide_border=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kylewandishin&theme=tokyonight&hide_border=true" /> </p>
